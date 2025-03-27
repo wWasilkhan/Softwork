@@ -3,8 +3,7 @@
   box-sizing: border-box;
   background-color: #FAFAFA;
   padding: 0;
-  margin: 0;
-  overflow-x: hidden;  
+  margin: 0; 
 }
 body{
   overflow-x: hidden;  
